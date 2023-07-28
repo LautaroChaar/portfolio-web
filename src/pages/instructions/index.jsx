@@ -182,7 +182,7 @@ const Instructions = () => {
                 fontFamily: "Montserrat, sans-serif",
               }}
             >
-              Backend API
+              Marvel Searcher
             </Typography>
             <Typography
               variant="inherit"
@@ -194,8 +194,7 @@ const Instructions = () => {
                 textAlign: "center",
               }}
             >
-              This project was created for {`Coderhouse's`} {`'Backend'`}{" "}
-              course.
+              This project was created for {`Leniolabs Bootcamp 2023`}.
             </Typography>
           </Box>
           <Box
